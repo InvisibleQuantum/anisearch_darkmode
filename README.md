@@ -6,7 +6,9 @@ Dunkles Seitenlayout für <a href="https://www.anisearch.de/">aniSearch.de</a>
 [![Last](https://img.shields.io/github/release-date/InvisibleQuantum/anisearch_darkmode?color=blue&label=Letztes%20Update&style=flat-square)](#)<br>
 
 ## Download
+Nach dem Download muss die .anisearch-Datei auf der Webseite importiert werden.<br>
 <a href="https://github.com/InvisibleQuantum/anisearch_darkmode/releases/latest">⬇️Download letzte Version</a>
 
 ## Importieren
+Wenn du eingeloggt bist, kannst du das Layout über diesen Link importieren:<br>
 https://www.anisearch.de/usercp/layout/import
